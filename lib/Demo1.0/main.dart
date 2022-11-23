@@ -1,5 +1,5 @@
-import 'package:app_de_prueba/Demo1.0/constantes.dart';
-import 'package:app_de_prueba/Demo1.0/screens/home/home.dart';
+import 'constantes.dart';
+import 'package:app01/Demo1.0/screens/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

@@ -1,4 +1,4 @@
-import 'package:app_de_prueba/Demo1.0/screens/home/BNavigation/Bnav4/model/model_ICCID.dart';
+import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/model/model_ICCID.dart';
 
 final allUsers = <ICCID_model>[
 //nota: poner el ICCID como string!!
