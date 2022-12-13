@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 
-import '../../../../../../Demo/constans.dart';
+import '../../../../../../Demo1.0/constantes.dart';
 
 class TabBarWidget extends StatelessWidget {
   final String title;
