@@ -1,4 +1,4 @@
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/model/user.dart';
+import '../model/user.dart';
 
 final allUsers = <User>[
 

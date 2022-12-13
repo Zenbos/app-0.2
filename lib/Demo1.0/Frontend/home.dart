@@ -1,7 +1,7 @@
-import 'package:app01/Demo1.0/constantes.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bottom_Nav.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Routes.dart';
-import 'package:app01/Demo1.0/screens/home/NavBar/Narbar.dart';
+import 'package:app01/Demo1.0/Frontend/constantes.dart';
+import 'BNavigation/Bottom_Nav.dart';
+import 'BNavigation/Routes.dart';
+import 'NavBar/Narbar.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

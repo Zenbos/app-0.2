@@ -1,11 +1,11 @@
 import 'package:app01/Demo1.0/main.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/page/ICCID.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/page/IMSI.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/widget/tabbar_widget.dart';
+import '../Bnav4/page/ICCID.dart';
+import '../Bnav4/page/IMSI.dart';
+import '../Bnav4/widget/tabbar_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-import '../../../../constantes.dart';
+import '../../../Frontend/constantes.dart';
 
 
 

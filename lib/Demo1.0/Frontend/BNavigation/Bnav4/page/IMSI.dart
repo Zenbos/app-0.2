@@ -1,7 +1,7 @@
-import 'package:app01/Constant.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/data/users.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/model/user.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/widget/scrollable_widget.dart';
+import 'package:app01/Ignore/Constant.dart';
+import '../data/users.dart';
+import '../model/user.dart';
+import '../widget/scrollable_widget.dart';
 import 'package:flutter/material.dart';
 
 

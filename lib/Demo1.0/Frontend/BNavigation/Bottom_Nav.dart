@@ -1,4 +1,4 @@
-import 'package:app01/Demo1.0/constantes.dart';
+import 'package:app01/Demo1.0/Frontend/constantes.dart';
 import 'package:flutter/material.dart';
 
 class BNavigator extends StatefulWidget{
@@ -56,11 +56,11 @@ class _BNavigatorState extends State<BNavigator> {
               label: 'IMSI/ICCID'
 
           ),
-          // BottomNavigationBarItem(
-          //     icon: Icon(Icons.shop,),
-          //     label: 'Shop'
-          //
-          // ),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.shop,),
+              label: 'Shop'
+
+          ),
         ]
     );
   }

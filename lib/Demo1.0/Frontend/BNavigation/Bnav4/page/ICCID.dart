@@ -1,7 +1,7 @@
-import 'package:app01/Constant.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/data/Info_ICCID.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/model/model_ICCID.dart';
-import 'package:app01/Demo1.0/screens/home/BNavigation/Bnav4/widget/scrollable_widget.dart';
+import 'package:app01/Ignore/Constant.dart';
+import '../data/Info_ICCID.dart';
+import '../model/model_ICCID.dart';
+import '../widget/scrollable_widget.dart';
 import 'package:flutter/material.dart';
 
 
