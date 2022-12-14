@@ -27,7 +27,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Prue-3',
+      title: 'Prue-4',
       theme: ThemeData(
         // backgroundColor: kPrimaryColor2,
 
