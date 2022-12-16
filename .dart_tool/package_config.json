@@ -639,7 +639,7 @@
     },
     {
       "name": "shared_preferences_linux",
-      "rootUri": "file:///C:/Users/jorge/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_linux-2.1.1",
+      "rootUri": "file:///C:/Users/jorge/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_linux-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -663,7 +663,7 @@
     },
     {
       "name": "shared_preferences_windows",
-      "rootUri": "file:///C:/Users/jorge/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_windows-2.1.1",
+      "rootUri": "file:///C:/Users/jorge/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_windows-2.1.2",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -950,7 +950,7 @@
       "languageVersion": "2.19"
     }
   ],
-  "generated": "2022-12-14T21:35:06.625340Z",
+  "generated": "2022-12-16T14:01:30.362644Z",
   "generator": "pub",
   "generatorVersion": "2.19.0-444.1.beta"
 }
