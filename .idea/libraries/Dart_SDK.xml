@@ -1,6 +1,11 @@
 <component name="libraryTable">
   <library name="Dart SDK">
     <CLASSES>
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Stashed changes
       <root url="file://$PROJECT_DIR$/../../../../Flutter/flutter_3.7.0-1.2/bin/cache/dart-sdk/lib/async" />
       <root url="file://$PROJECT_DIR$/../../../../Flutter/flutter_3.7.0-1.2/bin/cache/dart-sdk/lib/cli" />
       <root url="file://$PROJECT_DIR$/../../../../Flutter/flutter_3.7.0-1.2/bin/cache/dart-sdk/lib/collection" />
@@ -20,6 +25,35 @@
       <root url="file://$PROJECT_DIR$/../../../../Flutter/flutter_3.7.0-1.2/bin/cache/dart-sdk/lib/typed_data" />
       <root url="file://$PROJECT_DIR$/../../../../Flutter/flutter_3.7.0-1.2/bin/cache/dart-sdk/lib/web_audio" />
       <root url="file://$PROJECT_DIR$/../../../../Flutter/flutter_3.7.0-1.2/bin/cache/dart-sdk/lib/web_gl" />
+<<<<<<< Updated upstream
+=======
+=======
+=======
+>>>>>>> b04264634b4da75c0bb9e5e46ced7198352ef42a
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/async" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/cli" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/collection" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/convert" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/core" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/developer" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/ffi" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/html" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/indexed_db" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/io" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/isolate" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/js" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/js_util" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/math" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/mirrors" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/svg" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/typed_data" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/web_audio" />
+      <root url="file://$PROJECT_DIR$/../../../../../../flutter/flutter01/bin/cache/dart-sdk/lib/web_gl" />
+<<<<<<< HEAD
+>>>>>>> b04264634b4da75c0bb9e5e46ced7198352ef42a
+=======
+>>>>>>> b04264634b4da75c0bb9e5e46ced7198352ef42a
+>>>>>>> Stashed changes
     </CLASSES>
     <JAVADOC />
     <SOURCES />
