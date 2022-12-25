@@ -1,0 +1,20 @@
+Index: .idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml
+new file mode 100644
+--- /dev/null	(date 1671839854498)
++++ b/.idea/shelf/Uncommitted_changes_before_rebase__Changes_.xml	(date 1671839854498)
+@@ -0,0 +1,9 @@
++<changelist name="Uncommitted_changes_before_rebase_[Changes]" date="1671839263190" recycled="false" toDelete="true">
++  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch" />
++  <option name="DESCRIPTION" value="Uncommitted changes before rebase [Changes]" />
++  <binary>
++    <option name="BEFORE_PATH" value="build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" />
++    <option name="AFTER_PATH" value="build/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" />
++    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/4f2a58af27abc49ecf55570043bbf938.cache.dill.track.dill" />
++  </binary>
++</changelist>
+\ No newline at end of file
